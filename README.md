@@ -11,4 +11,6 @@ Here are some projects I've worked on and what I'm going to be working on:
 - How to contact me: You can email me, on kendall@kendalldoescoding.gq, or on my website: [https://kendalldoescoding.gq](https://kendalldoescoding.gq)
 - The link to my youtube channel: https://kendalldoescoding.gq/codingYT
 
+<img src="https://komarev.com/ghpvc/?username=KendallDoesCoding" alt="Profile Views" />
+
 [![KendallDoesCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendalldoesCoding&show_icons=true&theme=tokyonight)](https://github.com/KendallDoesCoding)
