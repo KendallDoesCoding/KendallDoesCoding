@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=KendallDoesCoding" alt="Profile Views" />
 [![KendallDoesCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendalldoesCoding&show_icons=true&theme=tokyonight)](https://github.com/KendallDoesCoding)
 
-[!TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendallDoesCoding&layout=compact&langs_count=100)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendallDoesCoding&layout=compact&langs_count=100)
 
 [website]: https://kendalldoescoding.gq
 [youtube]: https://kendalldoescoding.gq/codingYT
