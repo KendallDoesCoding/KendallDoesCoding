@@ -19,11 +19,12 @@
 
 # Stats and Other
 
-<img src="https://komarev.com/ghpvc/?username=KendallDoesCoding" alt="Profile Views" />
-
 ![KendallDoesCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendalldoesCoding&show_icons=true&theme=tokyonight)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendallDoesCoding&layout=compact&langs_count=100)
+
+<img src="https://komarev.com/ghpvc/?username=KendallDoesCoding" alt="Profile Views" />
+
 
 [website]: https://kendalldoescoding.gq
 [youtube]: https://kendalldoescoding.gq/codingYT
