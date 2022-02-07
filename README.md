@@ -2,7 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=kendalldoescoding.gq&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.gq)](https://kendalldoescoding.gq)
 
-- I’m currently working on making a YouTube App. I'm not yet sure what I'm going to do for this yet!
+- I'm currently working on [Mogul Christmas](https://github.com/KendallDoesCoding/mogul-christmas).
+- I’m also planning on working on making a YouTube App. I'm not yet sure what I'm going to do for this yet!
 - I’m currently learning to make a Realtime Digital Clock in the browser.
 - How to contact me: You can email me, on kendall@kendalldoescoding.gq, or on my website: [https://kendalldoescoding.gq](https://kendalldoescoding.gq)
 - Check out my YouTube channel: <https://kendalldoescoding.gq/codingYT>
