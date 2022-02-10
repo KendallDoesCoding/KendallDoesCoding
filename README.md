@@ -1,6 +1,5 @@
 ### Hey there, I'm Kendall, Thanks for visiting my profile 👋
-
-[![KendallDoesCoding](https://www.canva.com/design/DAE39-7wX_I/_J_P9T7w8dZj27EyXDczIA/view?utm_content=DAE39-7wX_I)
+![Cover](https://www.canva.com/design/DAE39-7wX_I/_J_P9T7w8dZj27EyXDczIA/view?utm_content=DAE39-7wX_I)
 
 [![Website](https://img.shields.io/website?label=kendalldoescoding.gq&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.gq)](https://kendalldoescoding.gq)
 
