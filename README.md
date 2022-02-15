@@ -1,6 +1,6 @@
 ### Hey there, I'm Kendall, Thanks for visiting my profile 👋
 
-![Cover](https://images.kendalldoescoding.gq/KendallDoesCoding.png)
+![Cover](https://images.kendalldoescoding.gq/KendallDoesCoding.png width=100, height=100)
 
 [![Website](https://img.shields.io/website?label=kendalldoescoding.gq&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.gq)](https://kendalldoescoding.gq)
 
@@ -24,9 +24,6 @@
 ![KendallDoesCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendalldoesCoding&show_icons=true&theme=tokyonight)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendallDoesCoding&layout=compact&langs_count=100)
-
-<img src="https://komarev.com/ghpvc/?username=KendallDoesCoding" alt="Profile Views" />
-
 
 [website]: https://kendalldoescoding.gq
 [youtube]: https://kendalldoescoding.gq/codingYT
