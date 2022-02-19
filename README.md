@@ -1,7 +1,7 @@
 ### Hey there, I'm Kendall, Thanks for visiting my profile 👋
-<div align="center">
+
   **HTML | CSS | JS | Open Source**
-</div>
+
 
 ![Cover](https://images.kendalldoescoding.gq/KendallDoesCoding.png)
 
