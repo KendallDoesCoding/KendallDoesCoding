@@ -1,9 +1,10 @@
 ### Hey there, I'm Kendall, Thanks for visiting my profile 👋
+<div align="center">
+  **HTML | CSS | JS | Open Source**
+</div>
 
 ![Cover](https://images.kendalldoescoding.gq/KendallDoesCoding.png)
-<div align="center">
-  HTML | CSS | JS | Open Source
-</div>
+
 
 [![Website](https://img.shields.io/website?label=kendalldoescoding.gq&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.gq)](https://kendalldoescoding.gq)
 
