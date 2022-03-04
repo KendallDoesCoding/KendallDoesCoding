@@ -12,8 +12,6 @@
 ### Connect with me:
 
 [<img align="left" alt="kendalldoescoding.gq" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 <br />
 
 
@@ -26,4 +24,3 @@
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendallDoesCoding&layout=compact&langs_count=100)
 
 [website]: https://kendalldoescoding.gq
-[youtube]: https://kendalldoescoding.gq/codingYT
