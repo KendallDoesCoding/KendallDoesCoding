@@ -19,10 +19,8 @@
 
 # Stats and Other
 
-<img src="https://activity-graph.herokuapp.com/graph?username=KendallDoesCoding&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+![KendallDoesCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendalldoesCoding&show_icons=true&theme=monokai)
 
-![KendallDoesCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendalldoesCoding&show_icons=true&theme=tokyonight)
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendallDoesCoding&layout=compact&langs_count=100)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendallDoesCoding&layout=compact&langs_count=100&theme=dracula)
 
 [website]: https://kendalldoescoding.tech
