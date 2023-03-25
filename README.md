@@ -20,7 +20,7 @@
 # Stats and Other
 
 ![KendallDoesCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendalldoesCoding&show_icons=true&theme=monokai)
-
+![Stats1](https://github-readme-streak-stats.herokuapp.com/?user=KendallDOesCoding&theme=dark)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendallDoesCoding&layout=compact&langs_count=100&theme=dracula)
 
 [website]: https://kendalldoescoding.tech
