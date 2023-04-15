@@ -4,14 +4,13 @@
 
 [![Website](https://img.shields.io/website?label=kendalldoescoding.tech&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.tech)](https://kendalldoescoding.tech).
 
-- I’m CURRENTLY working on making a Youtube App, I'm not yet sure what I'm going to do for this yet!.
-- I’m CURRENTLY learning to make a Realtime Digital Clock in the browser.
+- I’m CURRENTLY working on a few projects.
 - How to contact me: You can email me, on kendall@kendalldoescoding.tech, or contact me on my website: [https://kendalldoescoding.tech](https://kendalldoescoding.tech).
 - The link to my YouTube channel: https://kendalldoescoding.tech/codingYT.
 
 ### Connect with me:
 
-[<img align="left" alt="kendalldoescoding.gq" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kendalldoescoding.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 
 
