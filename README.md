@@ -1,6 +1,5 @@
 ### Hey there, I'm Kendall, Thanks for visiting my profile 👋
 
-![Cover](https://images.kendalldoescoding.tech/KendallDoesCoding.png).
 
 [![Website](https://img.shields.io/website?label=kendalldoescoding.tech&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.tech)](https://kendalldoescoding.tech).
 
