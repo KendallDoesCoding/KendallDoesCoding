@@ -10,13 +10,15 @@
 - How to contact me: You can email me, on kendalldoescoding@gmail.com
 - The link to my YouTube channel: https://www.youtube.com/@kendalldoescoding1000.
 
-### Connect with me:
+<!--- ### Connect with me:
 
 [<img align="left" alt="kendalldoescoding.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 
 
 ---
+
+-->
 
 # Stats and Other
 
