@@ -1,11 +1,14 @@
 ### Hey there, I'm Kendall, Thanks for visiting my profile 👋
 
 
+<!---
 [![Website](https://img.shields.io/website?label=kendalldoescoding.tech&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.tech)](https://kendalldoescoding.tech).
+-->
+
 
 - I’m CURRENTLY working on a few projects.
-- How to contact me: You can email me, on kendall@kendalldoescoding.tech, or contact me on my website: [https://kendalldoescoding.tech](https://kendalldoescoding.tech).
-- The link to my YouTube channel: https://kendalldoescoding.tech/codingYT.
+- How to contact me: You can email me, on kendalldoescoding@gmail.com
+- The link to my YouTube channel: https://www.youtube.com/@kendalldoescoding1000.
 
 ### Connect with me:
 
